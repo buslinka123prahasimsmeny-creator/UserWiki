@@ -1,1 +1,4 @@
-https://buslinka123prahasimsmeny-creator.github.io/UserWiki/
+UserWiki/
+├─ index.md        ← Domovská stránka
+├─ Znalosti.md     ← stránka Znalosti
+├─ Bonus.md        ← stránka Bonus
